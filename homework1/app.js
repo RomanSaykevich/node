@@ -7,21 +7,21 @@
 //         console.log(err)
 //         throw err
 //     }
-// })
+// });
 
 // fs.mkdir(path.join(__dirname, 'main', 'online'),(err)=>{
 //     if(err){
 //         console.log(err)
 //         throw err
 //     }
-// })
+// });
 
 // fs.mkdir(path.join(__dirname, 'main', 'inPerson'),(err)=>{
 //     if(err){
 //         console.log(err)
 //         throw err
 //     }
-// })
+// });
 
 // const onlineUsers = [{
 //     name: "Din",
@@ -42,7 +42,7 @@
 //             throw err
 //         }
 //     })
-// }
+// };
 
 // for (const person of inPersonUsers) {
 //     fs.writeFile(path.join(__dirname, 'main', 'inPerson', 'userInPerson.txt'), `\nName:${person.name}\nAge:${person.age}\nCiti:${person.city}`, (err) => {
@@ -51,7 +51,7 @@
 //             throw err;
 //         }
 //     })
-// }
+// };
 
 // fs.readFile(path.join(__dirname, 'main', 'online', 'userOnline.txt'), 'utf-8', (err, data) => {
 //     if (err) {
