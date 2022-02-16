@@ -1,0 +1,4 @@
+
+Name:Sem
+Age:35
+Citi:Las_Vegas
